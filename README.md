@@ -32,7 +32,7 @@ C. Why use q2_metabolomicsgnps? *placeholder*
 
 A. Install Qiime2 and activate environment by following the steps described [here](https://docs.qiime2.org/2018.6/install/native/).
 
-Test if the Qiime2 installation was successful by typing the following command in your terminal environment. If Qiime2 was successfully installed, options will appear.:
+Test if the Qiime2 installation was successful by typing the following command in your terminal environment. If Qiime2 was successfully installed, options will appear:
 
 ```
 qiime
@@ -59,13 +59,11 @@ cd q2_metabolomicsgnps
 pip install -e .
 ```
 
-Test if the plugin was installed correctly by repeating the following command:
+Test if the plugin was installed correctly by repeating the following command. If successful, the metabolomics-gnps plugin is now listed in the options:
 
 ```
 qiime
 ```
-
-If successful, the metabolomics-gnps plugin is now listed in the options.
 
 ### Plugin Commands Listing
 
